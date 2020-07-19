@@ -2,27 +2,83 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Saturday Morning Political Cartoon Thread",
+      "body": "It's Saturday, folks. Let's all kick back with a cup of coffee and share some cartoons!\n\nFeel free to share political cartoons in this thread. Besides our usual civility policy, there are three rules to follow:\n\nEvery top-level comment must contain a political cartoon. This means no text-only top-level comments.\n\nIt must be an original cartoon. This means no photographs, no edited cartoons, no memes and no image macros. OC is allowed, as is animation.\n\nEach top-level comment should only have a maximum of 3 cartoons.\n\nThat's all. Enjoy your weekend!",
+      "author": "The Netherlands"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Anonymous security forcing citizens into cars is mark of dictatorship",
+      "body": "",
+      "author":""
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Gmail is getting a massive redesign to work more like Slack",
+      "body": "",
+      "author":"jsamwrites"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "body": "This is perfect, every detail",
+      "postId": 1,
+      "author": "charcoalist"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "body": "This comic sums up his whole Presidency (or many failed attempts at running one)",
+      "postId": 1,
+      "author": "maneki_neko89"
+    },
+    {
+      "id": 3,
+      "body": "That huge tie, the tiny hands, the spray tan, love it.",
+      "postId": 1,
+      "author": "Defenestrate_Cops"
+    },
+    {
+      "id": 4,
+      "postId": 2,
+      "body": "As a reminder, this subreddit is for civil discussion.\n\nIn general, be courteous to others. Debate/discuss/argue the merits of ideas, don't attack people. Personal insults, shill or troll accusations, hate speech, any advocating or wishing death/physical harm, and other rule violations can result in a permanent ban.\n\nIf you see comments in violation of our rules, please report them.\n\nFor those who have questions regarding any media outlets being posted on this subreddit, please click here to review our details as to our approved domains list and outlet criteria.",
+      "author": "AutoModerator"
+    },
+    {
+      "id": 5,
+      "postId": 2,
+      "body": "So they aren't identifying themselves as agents of the law. They aren't driving marked vehicles.\n\nSo what would be the defense if someone pointed a gun at them or shot them to keep them from kidnapping someone?",
+      "author": "This_one_taken_yet_"
+    },
+    {
+      "id": 6,
+      "postId": 3,
+      "body": "I’ve given up imagining that Google can build a decent UX",
+      "author": "biiingo"
+    },
+    {
+      "id": 7,
+      "postId": 3,
+      "body": "hey can’t despite having a massive UX team!",
+      "author": "MrMoneyMilker"
+    },
+    {
+      "id": 8,
+      "postId": 3,
+      "body": "Too many cooks in the kitchen",
+      "author": "Dokterdd"
+    },
+    {
+      "id": 9,
+      "postId": 3,
+      "body": "When I saw Too Many Cooks on Adult Swim it took me a while to realize what I was actually watching.",
+      "author": "HERE4TAC0S"
+    },
+    {
+      "id": 10,
+      "postId": 3,
+      "body": "3 to 5 is more than 20",
+      "author": "mikesetera"
     }
   ],
   "profile": {
